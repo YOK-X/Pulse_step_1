@@ -16,7 +16,6 @@
     "url": "https://github.com/YOK-X/Pulse_step_1/issues"
   },
   "homepage": "http://localhost:3000",
-  
   "devDependencies": {
     "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
